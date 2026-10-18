@@ -68,6 +68,7 @@ Curated resources for [Grok](https://x.ai/grok), [Grok Bot](https://x.ai/news/gr
 - [Grok Bot Wiki (unofficial)](https://www.grokbotwiki.com) — Independent setup guides, troubleshooting, and a searchable directory of public Grok Bot share links.
 - [r/grok Subreddit](https://www.reddit.com/r/grok/) — Community discussions on Grok updates, prompting, and projects.
 - [Unofficial Grok Discord](https://discord.gg/4VXMtaQHk7) — Community chat for developers building on the SpaceXAI platform.
+- [What Should My Bot Do](https://whatshouldmybotdo.com) — Free directory of AI agent use cases and copy-ready Grok Bot setups for small businesses.
 
 ## Reading & Research
 
